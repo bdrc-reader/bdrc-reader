@@ -29,4 +29,22 @@
 
 - [རིག་མཛོད། Rigzo](https://bdrc-reader.github.io/rigzo/)
 
-- ལས་འཕྲོ་ཡིན། ད་དུང་ཚར་མེད།
+- [ས་སྐྱ་མཐོ་སློབ། Sakya-college](https://bdrc-reader.github.io/sakya-college/)
+
+- [རྒྱལ་ཡོངས་ས་ཆེན། Gyalyongsachen](https://bdrc-reader.github.io/gyalyongsachen/)
+
+- [ས་ར་མཐོ་སློབ། Sarah-college](https://bdrc-reader.github.io/sarah-college/)
+
+- [ས་སྐྱ་ཆོས་སྒར། Sakya-center](https://bdrc-reader.github.io/sakya-center/)
+
+- [ཝཱ་ཎ་མཐོ་སློབ། CIHTS](https://bdrc-reader.github.io/CIHTS/)
+
+- [བོད་ཀྱི་དཔེ་མཛོད་ཁང། LTWA](https://bdrc-reader.github.io/LTWA/)
+
+- [སྨན་རིའི་གླིང་། MenriLing](https://bdrc-reader.github.io/MenriLing/)
+
+- [ཁྲ་འགུ་དགོན། Thrangu](https://bdrc-reader.github.io/thrangu/)
+
+- [རྫོང་སར་བཤད་གྲྭ། Dzongsar-shedra](https://bdrc-reader.github.io/dzongsar-shedra/)
+
+
