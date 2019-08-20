@@ -51,8 +51,6 @@
 
 - [ས་སྐྱ་རྒྱལ་ཡོངས། IBA](https://bdrc-reader.github.io/IBA/)
 
-- [ས་སྐྱ་རྒྱལ་ཡོངས། IBA](https://bdrc-reader.github.io/IBA/)
-
 - [འབྲི་གུང་། drigung](https://bdrc-reader.github.io/drigung/)
 
 - [སྨིན་གྲོལ་གླིང་། mindroling](https://bdrc-reader.github.io/mindroling/)
