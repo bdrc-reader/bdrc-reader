@@ -47,4 +47,19 @@
 
 - [རྫོང་སར་བཤད་གྲྭ། Dzongsar-shedra](https://bdrc-reader.github.io/dzongsar-shedra/)
 
+- [ཀིརྟིའི་བྱེས་པ་གྲྭ་ཚང་། kirti](https://bdrc-reader.github.io/kirti/)
+
+- [ས་སྐྱ་རྒྱལ་ཡོངས། IBA](https://bdrc-reader.github.io/IBA/)
+
+- [ས་སྐྱ་རྒྱལ་ཡོངས། IBA](https://bdrc-reader.github.io/IBA/)
+
+- [འབྲི་གུང་། drigung](https://bdrc-reader.github.io/drigung/)
+
+- [སྨིན་གྲོལ་གླིང་། mindroling](https://bdrc-reader.github.io/mindroling/)
+
+- [སྲོང་བཙན་དཔེ་མཛོད། songtsen-library](https://bdrc-reader.github.io/songtsen-library/)
+
+- [དགའ་ལྡན་ཤར་རྩེ། shartse](https://bdrc-reader.github.io/shartse/)
+
+
 
