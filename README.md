@@ -59,5 +59,7 @@
 
 - [དགའ་ལྡན་ཤར་རྩེ། shartse](https://bdrc-reader.github.io/shartse/)
 
+- [ནང་བསྟན་རིག་མཛོད། rigzo](https://bdrc-reader.github.io/rigzo/)
+
 
 
