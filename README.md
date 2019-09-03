@@ -19,7 +19,7 @@
 
 - [ཤེས་རབ་གླིང་། Sherabling](https://bdrc-reader.github.io/sherabling/)
 
-- [བཀའ་བརྒྱུད་གསུང་རབ་ཉར་གསོ་ཁང་། Kagyusungrab](https://bdrc-reader.github.io/Kagyusungrab/)
+- [བཀའ་བརྒྱུད་གསུང་རབ་ཉར་གསོ་ཁང་། Kagyusungrab](https://bdrc-reader.github.io/kagyusungrab/)
 
 - [བཀྲ་ཤིས་ལྷུན་པོ། Tashilhunpo](https://bdrc-reader.github.io/tashilhunpo/)
 
