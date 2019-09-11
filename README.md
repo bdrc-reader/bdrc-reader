@@ -61,5 +61,5 @@
 
 - [ནང་བསྟན་རིག་མཛོད། rigzo](https://bdrc-reader.github.io/rigzo/)
 
-
+- [རྫོང་སར་དཔེ་མཛོད། Dzongsar-library](https://bdrc-reader.github.io/dzongsar-library/)
 
