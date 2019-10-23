@@ -31,7 +31,7 @@
 
 - [ས་སྐྱ་མཐོ་སློབ། Sakya-college](https://bdrc-reader.github.io/sakya-college/)
 
-- [རྒྱལ་ཡོངས་ས་ཆེན། Gyalyongsachen](https://bdrc-reader.github.io/gyalyongsachen/)
+- [ས་སྐྱའི་གསང་ཆེན་རྒྱུད་གྲྭ། Sangchengyudra](https://bdrc-reader.github.io/sangchengyudra/)
 
 - [ས་ར་མཐོ་སློབ། Sarah-college](https://bdrc-reader.github.io/sarah-college/)
 
